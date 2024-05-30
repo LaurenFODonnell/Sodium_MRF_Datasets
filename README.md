@@ -3,7 +3,8 @@
 - Contact       : odonnl05@nyulangone.org (Lauren O'Donnell) and guillaume.madelin@nyulangone.org (Guillaume Madelin)
 - Affiliation   : Center for Biomedical Imaging, Radiology Department, New York University Grossman School of Medicine 
 - Date          : 2024/05
-- Reference	    : O'Donnell, et. al "Correlation-weighted 23Na magnetic resonance fingerpringting in the brain"
+- Reference	    : O'Donnell, et. al "Correlation-weighted 23Na magnetic resonance fingerpringting in the brain" Submitted to Scientific Reports, Authors: Lauren F. O'Donnell, Gonzalo G. Rodriguez, Gregory Lemberskiy, Zidan Yu, Olga Dergachyova, Martijn A. Cloos, and Guillaume Madelin
+  
 
 This repository includes the following datasets in nifti format where the correlation weighted maps include delta-B1, delta-f0, T1, T*_2long, T*_2short and SD.
 1) 2D correlation weighted maps of the brain in axial, coronal and sagittal planes for each of the 5 volunteers included in the study 
