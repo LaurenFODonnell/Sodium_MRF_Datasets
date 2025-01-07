@@ -1,9 +1,10 @@
 # Sodium_MRF_Datasets
--  Purpose       : Dataset repository for correlation weighted sodium MR fingerprinting in the brain 
+-  Purpose      : Dataset repository for correlation weighted sodium MR fingerprinting in the brain 
 - Contact       : odonnl05@nyulangone.org (Lauren O'Donnell) and guillaume.madelin@nyulangone.org (Guillaume Madelin)
 - Affiliation   : Center for Biomedical Imaging, Radiology Department, New York University Grossman School of Medicine 
 - Date          : 2024/05
-- Reference	    : O'Donnell, et. al "Correlation-weighted 23Na magnetic resonance fingerpringting in the brain" Submitted to Scientific Reports, Authors: Lauren F. O'Donnell, Gonzalo G. Rodriguez, Gregory Lemberskiy, Zidan Yu, Olga Dergachyova, Martijn A. Cloos, and Guillaume Madelin
+- Reference	    : O'Donnell, et. al "Correlation-weighted 23Na magnetic resonance fingerpringting in the brain" arXiv Physics https://doi.org/10.48550/arXiv.2412.07006
+- Authors       : Lauren F. O'Donnell, Gonzalo G. Rodriguez, Gregory Lemberskiy, Zidan Yu, Olga Dergachyova, Martijn A. Cloos, and Guillaume Madelin
   
 
 This repository includes the following datasets in nifti format where the correlation weighted maps include delta-B1, delta-f0, T1, T*_2long, T*_2short and SD.
